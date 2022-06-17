@@ -7,8 +7,8 @@ import plotly.graph_objs as go
 
 ########### Define your variables ######
 
-myheading1='How to use callbacks'
-tabtitle = 'xkcd'
+myheading1='Top Four Marvel Heros'
+tabtitle = 'Top Four Marvel Heros'
 list_of_options=['Dr. Strange', 'Spiderman', 'The Hulk', 'Captain America']
 list_of_images=['dr_strange.jpeg', 'spiderman.jpeg', 'hulk.jpeg', 'captain_america.jpeg', 'watcher.jpeg']
 sourceurl = 'https://www.google.com/imghp?hl=en&tab=ri&ogbl'
