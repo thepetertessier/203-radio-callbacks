@@ -9,10 +9,10 @@ import plotly.graph_objs as go
 
 myheading1='How to use callbacks'
 tabtitle = 'xkcd'
-list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot']
-list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
-sourceurl = 'https://xkcd.com/'
-githublink = 'https://github.com/plotly-dash-apps/203-radio-callbacks'
+list_of_options=['Dr. Strange', 'Spiderman', 'The Hulk', 'Captain America']
+list_of_images=['dr_strange.jpeg', 'spiderman.jpeg', 'hulk.jpeg', 'captain_america.jpeg', 'watcher.jpeg']
+sourceurl = 'https://www.google.com/imghp?hl=en&tab=ri&ogbl'
+githublink = 'https://github.com/thepetertessier/203-radio-callbacks'
 
 
 ########## Set up the chart
